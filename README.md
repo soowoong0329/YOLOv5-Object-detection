@@ -62,7 +62,7 @@
 
 ### Classification Result
 
-![modeling3](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/modeling3.PNG?raw=true)
+![modeling3](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/modeling3.png?raw=true)
 
 ![modeling4](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/modeling4.PNG?raw=true)
 
