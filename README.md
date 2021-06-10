@@ -4,7 +4,7 @@
 
 * IoT + **AI** + Cloud
 
-![arch1](C:\Users\samsung\Desktop\arch1.PNG)
+![arch1](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/arch1.PNG?raw=true)
 
 > Object Detection for Tomato Disease
 
@@ -20,7 +20,7 @@
 
 ### DATA
 
-![캡처](C:\Users\samsung\Desktop\캡처.PNG)
+![캡처](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/캡처.PNG?raw=true)
 
 ---
 
@@ -51,9 +51,9 @@
 
 ### Modeling
 
-![modeling1](C:\Users\samsung\Desktop\modeling1.PNG)
+![modeling1](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/modeling1.PNG?raw=true)
 
-![modeling2](C:\Users\samsung\Desktop\modeling2.PNG)
+![modeling2](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/modeling2.PNG?raw=true)
 
 * 속도 대신 정확하게 병충해를 분류하는 것이 가장 중요
 * YOLOv5 Pre-Trained Model 중 정확도가 가장 높은 YOLOv5x 모델 사용
@@ -62,9 +62,9 @@
 
 ### Classification Result
 
-![modeling3](C:\Users\samsung\Desktop\modeling3.png)
+![modeling3](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/modeling3.PNG?raw=true)
 
-![modeling4](C:\Users\samsung\Desktop\modeling4.PNG)
+![modeling4](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/modeling4.PNG?raw=true)
 
 * 모델 Train에 사용하지 않은 잡초 및 병충해 이미지 데이터, 유튜브 동영상 캡쳐 이미지 등 Test로 활용
   * 모두 높은 정확도와 mAP 수치를 보임
@@ -82,15 +82,15 @@
 
 * 병충해 작물 인식
 
-![result1](C:\Users\samsung\Desktop\result1.PNG)
+![result1](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/result1.PNG?raw=true)
 
 * 정상 작물 인식
 
-![result2](C:\Users\samsung\Desktop\result2.PNG)
+![result2](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/result2.PNG?raw=true)
 
 * 잡초 인식
 
-![result3](C:\Users\samsung\Desktop\result3.PNG)
+![result3](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/result3.PNG?raw=true)
 
 ---
 
