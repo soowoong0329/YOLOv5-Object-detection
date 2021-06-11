@@ -2,7 +2,7 @@
 
 ## System Architecture
 
-* IoT + **AI** + Cloud
+* IoT + **AI** + Big Data +  Cloud
 
 ![arch1](https://github.com/soowoong0329/YOLOv5-Object-detection/blob/master/img/arch1.PNG?raw=true)
 
